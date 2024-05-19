@@ -11,7 +11,7 @@ useTitle(`${title} / Cinemate`);
 
 
   return (
-    <main>
+    <main>Έγινε η αλλαγή
         <section className="max-w-7xl mx-auto py-7">
             <div className="flex justify-start flex-wrap other:justify-evenly">
               {movies.map((movie) => {
